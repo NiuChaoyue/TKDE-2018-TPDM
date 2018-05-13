@@ -1,8 +1,10 @@
 1. This is the source code for our papers:
-     C. Niu, Z. Zheng, F. Wu, X. Gao, and G. Chen, "Achieving Data Truthfulness and Privacy Preservation in Data Markets", in TKDE, 2018. (Link: https://ieeexplore.ieee.org/document/8330057/)
-     C. Niu, Z. Zheng, F. Wu, X. Gao, and G. Chen, "Trading Data in Good Faith: Integrating Truthfulness and Privacy Preservation in Data Markets", in ICDE, 2017. (Link: https://ieeexplore.ieee.org/document/7929976/)
+   C. Niu, Z. Zheng, F. Wu, X. Gao, and G. Chen, "Achieving Data Truthfulness and Privacy Preservation in Data Markets", in TKDE, 2018.  
+   (Link: https://ieeexplore.ieee.org/document/8330057/)
+   C. Niu, Z. Zheng, F. Wu, X. Gao, and G. Chen, "Trading Data in Good Faith: Integrating Truthfulness and Privacy Preservation in Data Markets", in ICDE, 2017. 
+   (Link: https://ieeexplore.ieee.org/document/7929976/)
    and the referenced paper:
-     D. Boneh, E. Goh, and K. Nissim, "Evaluating 2-dnf formulas on ciphertexts", in TCC, 2005.
+   D. Boneh, E. Goh, and K. Nissim, "Evaluating 2-dnf formulas on ciphertexts", in TCC, 2005.
 	
 2. Keywords: 
    Identity-Based Signature Batch Verification (SS512 and MNT159 elliptic curves), 
