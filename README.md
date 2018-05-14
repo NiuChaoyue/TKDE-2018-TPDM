@@ -28,7 +28,8 @@
    
    
 3. **Compile commands:**
-   ####Signature Verification
+   
+   #Signature Verification
    ```sh
    $ gcc -c sha1.c
    $ gcc -c utils.c
@@ -37,7 +38,7 @@
    or
    $ ./test < param/d159.param
    ```
-   ####Data Processing and Outcome Verification
+   #Data Processing and Outcome Verification
    ```sh
    $ gcc -c bgn.c -I/usr/local/include/pbc -L/usr/local/lib -lpbc -lgmp
    $ gcc -Wall -static bgn.o ProfileMatching.c -o test -I/usr/local/include/pbc -L/usr/local/lib -lpbc -lgmp
