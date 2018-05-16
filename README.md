@@ -46,7 +46,7 @@
    $ gcc -Wall -static bgn.o DistributionFitting.c -o test -I/usr/local/include/pbc -L/usr/local/lib -lpbc -lgmp
    or
    $ gcc -Wall -static bgn.o DistributionFittingVer.c -o test -I/usr/local/include/pbc -L/usr/local/lib -lpbc -lgmp
-   ./test
+   $./test
    ```
    
    
