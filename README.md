@@ -13,7 +13,7 @@
    
    Identity-Based Signature Batch Verification (SS512 and MNT159 elliptic curves), 
    
-   Boneh-Goh-Nissim (BGN )Homomorphic Cryptosystem,
+   Boneh-Goh-Nissim (BGN) Homomorphic Cryptosystem,
    
    Profile Matching,
    
